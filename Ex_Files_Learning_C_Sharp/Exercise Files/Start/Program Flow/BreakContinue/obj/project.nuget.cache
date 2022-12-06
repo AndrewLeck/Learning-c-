@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hnxfedsxUWYCX8tsKQG4MLGtA+8FKC4tJbvuwxUMfq8Q0NfOkSiT5GbIJFC1d1gIaSDd2zpN3F1NmMIiotaPjA==",
+  "success": true,
+  "projectFilePath": "/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/BreakContinue.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrewleck/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/andrewleck/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/andrewleck/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

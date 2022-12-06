@@ -19,7 +19,9 @@ namespace BreakContinue
                 Console.WriteLine($"val is currently {val}");
 
                 // TODO: The break statement stops the loop and exits
-
+                if (val >= 40){
+                    break;
+                }
             }
         }
     }
