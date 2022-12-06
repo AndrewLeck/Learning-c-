@@ -23,12 +23,7 @@ namespace Conditionals
             // Using the ternary operator ?:
 
             // a two-case if-then
-            if (theVal < 50) {
-                Console.WriteLine("theVal is small");
-            }
-            else {
-                Console.WriteLine("theVal is large");
-            }
+            
 
             // can be replaced by a ternary operator ?:
             Console.WriteLine(theVal < 50 ? "theVal is small" : "theVal is large");
