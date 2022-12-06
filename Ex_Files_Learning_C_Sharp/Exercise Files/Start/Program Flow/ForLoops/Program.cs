@@ -20,12 +20,18 @@ namespace ForLoops
 
             // TODO: the foreach-in loop can be used to iterate over sequences
             // Console.WriteLine("The foreach loop:");
-            foreach (int i in nums){
-                Console.WriteLine("i is currently {0}", i);
-            }
+            // foreach (int i in nums){
+            //     Console.WriteLine("i is currently {0}", i);
+            // }
 
             // TODO: count the number of o's in the string
-
+            var count = 0;
+            foreach( char c in str ){
+                if (c == 'o'){
+                    count ++;
+                }
+                Console.WriteLine("Count is {0} o in characters", count);
+            }
         }
     }
 }
