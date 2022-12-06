@@ -1,0 +1,16 @@
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.deps.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.dev.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.csproj.AssemblyReference.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfoInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfo.cs
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/refint/Exceptions.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.genruntimeconfig.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/ref/Exceptions.dll
