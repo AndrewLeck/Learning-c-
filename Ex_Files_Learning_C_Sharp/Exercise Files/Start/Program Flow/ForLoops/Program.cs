@@ -12,6 +12,9 @@ namespace ForLoops
 
             // TODO: the basic for loop
             Console.WriteLine("The basic for loop:");
+            for ( int i = 0; i < myVal; i++ ){
+                Console.WriteLine("i is currently {0}", i);
+            }
 
             Console.WriteLine();
 
