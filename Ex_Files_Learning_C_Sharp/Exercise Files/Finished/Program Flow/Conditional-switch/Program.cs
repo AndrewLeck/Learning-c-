@@ -6,7 +6,7 @@ namespace ConditionalOps
     {
         static void Main(string[] args)
         {
-            int theVal = 50;
+            int theVal = 56;
 
             // The switch statement
             switch (theVal) {
