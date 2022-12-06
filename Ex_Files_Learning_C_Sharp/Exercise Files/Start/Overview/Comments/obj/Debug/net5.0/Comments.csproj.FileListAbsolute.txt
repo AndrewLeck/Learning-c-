@@ -1,0 +1,16 @@
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.deps.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.runtimeconfig.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.runtimeconfig.dev.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.csproj.AssemblyReference.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.AssemblyInfoInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.AssemblyInfo.cs
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.csproj.CoreCompileInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/refint/Comments.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.genruntimeconfig.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/ref/Comments.dll
