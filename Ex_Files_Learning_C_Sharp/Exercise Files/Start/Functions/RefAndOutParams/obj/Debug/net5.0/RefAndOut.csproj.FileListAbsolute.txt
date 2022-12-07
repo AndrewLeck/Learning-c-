@@ -1,0 +1,16 @@
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.deps.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.dev.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.AssemblyReference.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfoInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfo.cs
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.CoreCompileInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/refint/RefAndOut.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.genruntimeconfig.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/ref/RefAndOut.dll
