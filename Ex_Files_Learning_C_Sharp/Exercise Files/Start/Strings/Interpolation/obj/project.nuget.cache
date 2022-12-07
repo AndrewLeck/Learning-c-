@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7vn521+gmJlby2P/+BwC8FtKMPdD5jbxVNdBXx4lcjjrVtAMG/o484OWYLuVXb4Dlzn7Mkv3n4F4Ti3H6Ih0Bw==",
+  "success": true,
+  "projectFilePath": "/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Interpolation/Strings.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrewleck/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/andrewleck/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/andrewleck/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
