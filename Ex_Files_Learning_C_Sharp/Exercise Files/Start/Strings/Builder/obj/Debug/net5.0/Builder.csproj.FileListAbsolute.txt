@@ -1,0 +1,16 @@
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/bin/Debug/net5.0/Builder
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/bin/Debug/net5.0/Builder.deps.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/bin/Debug/net5.0/Builder.runtimeconfig.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/bin/Debug/net5.0/Builder.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/bin/Debug/net5.0/Builder.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.csproj.AssemblyReference.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/obj/Debug/net5.0/refint/Builder.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Builder/obj/Debug/net5.0/ref/Builder.dll
