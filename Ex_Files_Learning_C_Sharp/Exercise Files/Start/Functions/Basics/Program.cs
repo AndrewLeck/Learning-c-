@@ -4,13 +4,20 @@
 // unit that can be customized with parameters.
 
 // TODO: Functions have a return type, name, and optional parameters
-
+float milesTokm(float miles){
+    float result = miles * 1.6f;
+    return result;
+}
 
 // TODO: A function with no return value has a 'void' type
-
+void PrintWithPrefix(string theStr){
+    Console.WriteLine($" :: > {theStr}");
+}
 
 // TODO: Call first function
-
+Console.WriteLine($"The result is {milesTokm(8.0f)}");
+Console.WriteLine($"The result is {milesTokm(52.0f)}");
 
 // TODO: Call second function
-
+PrintWithPrefix("test String");
+PrintWithPrefix("Another test string");
