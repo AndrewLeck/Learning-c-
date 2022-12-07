@@ -14,19 +14,30 @@ namespace Operations
             string[] strs = {"one", "two", "three", "four"};
 
             // TODO: Length of a string 
-
+            Console.WriteLine(str1.Length);
 
             // TODO: Access individual characters
-
+            Console.WriteLine(str1[14]);
 
             // TODO: iterate over a string like any other sequence of values
-
+            foreach (char ch in str1) {
+                Console.Write(ch);
+                if( ch == 'b'){
+                    Console.WriteLine();
+                    break;
+                }
+            }
 
             // TODO: String Concatenation         
-
+            outstr = String.Concat(strs);
+            Console.WriteLine(outstr);
 
             // TODO: Joining strings together with Join
+            outstr = String.Join('.', strs);
+             Console.WriteLine(outstr);
 
+              outstr = String.Join("---", strs);
+             Console.WriteLine(outstr);
 
             // TODO: String Comparison
             // Compare will perform an ordinal comparison and return:
