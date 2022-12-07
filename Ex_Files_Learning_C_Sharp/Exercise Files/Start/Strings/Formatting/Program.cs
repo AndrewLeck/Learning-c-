@@ -14,14 +14,15 @@ namespace Formatting
             decimal val2 = 1234.5678m;
 
             // Basic Formatting information
-            // Console.WriteLine("{0}", str1);
+            Console.WriteLine("{0}", str1);
 
             // TODO: Specifying Numerical formatting
             // General format is {index[,alignment]:[format]}
             // Common types are N (Number), G (General), F (Fixed-point), 
             // E (Exponential), D (Decimal), P (Percent), X (Hexadecimal),
             // C (Currency in local format)
-
+            Console.WriteLine("{0:D}, {0:N}, {0:F}, {0:G}", val1);
+            Console.WriteLine("{0:E}, {0:N}, {0:F}, {0:G}", val2);
 
             // TODO: Add a number after the format to specify precision
 
