@@ -1,0 +1,16 @@
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.deps.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.runtimeconfig.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.runtimeconfig.dev.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.csproj.AssemblyReference.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.AssemblyInfoInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.AssemblyInfo.cs
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.csproj.CoreCompileInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/refint/ProgChallengeStart.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.genruntimeconfig.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ref/ProgChallengeStart.dll
