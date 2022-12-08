@@ -1,0 +1,16 @@
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge.deps.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge.runtimeconfig.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge.runtimeconfig.dev.json
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.csproj.AssemblyReference.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.AssemblyInfoInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.AssemblyInfo.cs
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.csproj.CoreCompileInputs.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/obj/Debug/net5.0/refint/ProgChallenge.dll
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.pdb
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.genruntimeconfig.cache
+/Users/andrewleck/Documents/CodingFun/Learning/Learning-c-/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Functions/ProgChallenge/obj/Debug/net5.0/ref/ProgChallenge.dll
